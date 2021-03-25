@@ -48,7 +48,7 @@
                                 <br />
                                 
                                 <div class="form-group">
-                                    <input class="btn btn-info btn-block btn-lg" id="Button2" type="button" value="Sign Up" style="width:100%;"   />
+                                    <a href="usersignup.aspx"> <input class="btn btn-info btn-block btn-lg" id="Button2" type="button" value="Sign Up" style="width:100%;"   /></a>
                                         
                                    </div>
 
@@ -66,4 +66,5 @@
             </div>
         </div>
     </div>
+
 </asp:Content>
