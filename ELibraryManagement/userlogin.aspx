@@ -43,12 +43,12 @@
                                 <br />
 
                                    <div class="form-group">
-                                       <asp:Button class="btn btn-success btn-block btn-lg" ID="Button1" runat="server" Text="Login"   Width="510px" />
+                                       <asp:Button class="btn btn-success btn-block btn-lg" ID="Button1" runat="server" Text="Login"   Width="100%" />
                                    </div>
                                 <br />
                                 
                                 <div class="form-group">
-                                    <input class="btn btn-info btn-block btn-lg" id="Button2" type="button" value="Sign Up" Width="510px" />
+                                    <input class="btn btn-info btn-block btn-lg" id="Button2" type="button" value="Sign Up" style="width:100%;"   />
                                         
                                    </div>
 
@@ -56,6 +56,13 @@
                         </div>
                     </div>
                 </div>
+
+                <br />
+
+                <a href="homepage.aspx"><< Back To Home</a>
+
+                <br />
+                <br />
             </div>
         </div>
     </div>
