@@ -54,16 +54,16 @@
 
                         <div class="row">
                             <div class="col-4">
-                                <asp:Button class="btn btn-lg btn-block btn-success" ID="Button2" runat="server" Text="Add" />
+                                <asp:Button Width="100%" class="btn btn-lg btn-block btn-success" ID="Button2" runat="server" Text="Add" />
                                 
                                 
                             </div>
                             <div class="col-4">
-                                <asp:Button class="btn btn-lg btn-block btn-warning" ID="Button3" runat="server" Text="Update" />
+                                <asp:Button Width="100%" class="btn btn-lg btn-block btn-warning" ID="Button3" runat="server" Text="Update" />
                             </div>
 
                             <div class="col-4">
-                                <asp:Button class="btn btn-lg btn-block btn-danger" ID="Button4" runat="server" Text="Delete" />
+                                <asp:Button Width="100%" class="btn btn-lg btn-block btn-danger" ID="Button4" runat="server" Text="Delete" />
                             </div>
                         </div>
 
