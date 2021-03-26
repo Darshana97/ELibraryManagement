@@ -137,7 +137,7 @@
                         <div class="row">
                             <div class="col">                             
                                 <div class="form-group">
-                                    <a href="usersignup.aspx"> <input class="btn btn-primary btn-block btn-lg" id="Button2" type="button" value="Sign Up" style="width:100%;"   /></a>
+                                    <a href="usersignup.aspx"> <input class="btn btn-success btn-block btn-lg" id="Button2" type="button" value="Sign Up" style="width:100%;"   /></a>
                                         
                                    </div>
 
