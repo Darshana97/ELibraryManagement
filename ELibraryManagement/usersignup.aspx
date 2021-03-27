@@ -18,7 +18,7 @@
                         <div class="row">
                             <div class="col">
                                 <center>
-                                    <h4>User Registration</h4>
+                                    <h4>Member Signup</h4>
                                 </center>
                             </div>
                         </div>
@@ -119,7 +119,7 @@
 
                          <div class="row">
                             <div class="col-md-6">
-                               <label>User ID</label>
+                               <label>Member ID</label>
                                <div class="form-group">
                                    <asp:TextBox class="form-control" ID="TextBox8" runat="server" placeholder="User ID" ></asp:TextBox>
                                </div>
@@ -135,14 +135,14 @@
                         <br />
 
                         <div class="row">
-                            <div class="col">                             
-                                <div class="form-group">
-                                    <a href="usersignup.aspx"> <input class="btn btn-success btn-block btn-lg" id="Button2" type="button" value="Sign Up" style="width:100%;"   /></a>
-                                        
-                                   </div>
-
-                            </div>
-                        </div>
+                     <div class="col-8 mx-auto">
+                        <center>
+                           <div class="form-group">
+                              <asp:Button Width="100%" class="btn btn-primary btn-block btn-lg" ID="Button1" runat="server" Text="Sign Up" OnClick="Button1_Click1" />
+                           </div>
+                        </center>
+                     </div>
+                  </div>
                     </div>
                 </div>
 
